@@ -99,7 +99,7 @@ Canny Edge Detection으로 명확한 직선의 형태를 검출하기 위해 여
 모바일에서 실행 시
 
 
-<p align="center"> <img width="150" height="300" src="https://user-images.githubusercontent.com/66740126/131493276-57489e90-4ccf-4a53-a613-90022de6ca8d.jpg"> </p>
+<img width="150" height="300" src="https://user-images.githubusercontent.com/66740126/131493276-57489e90-4ccf-4a53-a613-90022de6ca8d.jpg">
 
 
 
