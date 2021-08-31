@@ -38,6 +38,7 @@ OpenPose를 이용한 젓가락질 교정 시스템입니다.
 2D 이미지에서는 입력받은 이미지를 OpenPose를 이용해서 관절을 검출하고, 이를 통해서 손의 자세를 추정한다.
 
 
+<p align="center"><img src="https://user-images.githubusercontent.com/66740126/131484778-442f0553-3faa-40c5-9102-2befa2dead4e.png"></p>
 
 
 
