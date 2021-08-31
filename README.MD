@@ -57,6 +57,7 @@ OpenPose를 이용한 젓가락질 교정 시스템입니다.
 ![3코드](https://user-images.githubusercontent.com/66740126/131485368-808e999f-49c5-45de-bfcd-a4d6a7e81866.png)
 
 
+![4비교](https://user-images.githubusercontent.com/66740126/131485442-4804158a-b330-434f-9c62-35b589f8d629.png)
 
 
 
