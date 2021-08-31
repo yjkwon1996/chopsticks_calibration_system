@@ -16,7 +16,7 @@ OpenPose를 이용한 젓가락질 교정 시스템입니다.
 ## 개요
 
 
-<img width="30%" src="![졸작알고리즘](https://user-images.githubusercontent.com/66740126/131482402-c08603dc-c8ad-42cd-81de-857d79f3f511.png)">
+<center><img src="https://user-images.githubusercontent.com/66740126/131482402-c08603dc-c8ad-42cd-81de-857d79f3f511.png"/>
 
 
 ## 1. 이미지 입력 및 관절 검출
