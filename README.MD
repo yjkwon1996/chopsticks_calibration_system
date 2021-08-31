@@ -130,6 +130,10 @@ Canny Edge Detection으로 명확한 직선의 형태를 검출하기 위해 여
 
 ## 5. 동작 시연
 
+![1번 사이즈 줄인거](https://user-images.githubusercontent.com/66740126/131496848-139596aa-f559-447d-a5dc-903a59b16afb.gif)
+
+
+![2번 사이즈 줄인거](https://user-images.githubusercontent.com/66740126/131496901-55d9703c-c6e9-4dfb-9ee6-214a8da48d29.gif)
 
 
 
