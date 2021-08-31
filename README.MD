@@ -98,9 +98,37 @@ Canny Edge Detection으로 명확한 직선의 형태를 검출하기 위해 여
 
 모바일에서 실행 시
 
+시작화면
+
+<img width="150" height="300" src="https://user-images.githubusercontent.com/66740126/131493976-2eba0a04-d922-4a37-b06d-9dece7455ebf.jpg">
+
+
+메뉴 선택화면
+
+
+<img width="150" height="300" src="https://user-images.githubusercontent.com/66740126/131493964-b8992f47-5d49-445c-8c53-b20489a0b4c9.jpg">
+
+
+튜토리얼 선택 시, 어플을 어떻게 사용해야 하는지에 대해서 알려줍니다.
+
+
+<img width="150" height="300" src="https://user-images.githubusercontent.com/66740126/131493997-4d7493ec-f1d4-438b-9d64-b86bcc71940f.jpg">
+
+
+이미지 입력
+
 
 <img width="150" height="300" src="https://user-images.githubusercontent.com/66740126/131493276-57489e90-4ccf-4a53-a613-90022de6ca8d.jpg">
 
+
+이미지가 입력되고 결과를 보여준다.
+
+
+<img width="150" height="300" src="https://user-images.githubusercontent.com/66740126/131494007-0e3cb8fa-9033-4460-ab12-b7b412c0e13b.jpg">
+
+
+
+## 5. 동작 시연
 
 
 
